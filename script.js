@@ -4,7 +4,7 @@
 
 
 // graph data
-var data = [50, 50, 30, 70, 5, 90, 12];
+var data = [50, 82, 30, 70, 5, 90, 12];
 
 // get graph element
 var graph = document.getElementById('graph');
