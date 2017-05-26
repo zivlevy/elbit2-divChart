@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+#title{
+    text-align: center;
+}
+
+#graph {
+    position:relative;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: lightgray;
+
+}
+
+.bar {
+    position: absolute;
+    bottom:0;
+    background-color: cornflowerblue;
+    border: solid 1px white;
+}
